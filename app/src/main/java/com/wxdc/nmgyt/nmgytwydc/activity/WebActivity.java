@@ -6,6 +6,9 @@ import com.wxdc.nmgyt.nmgytwydc.agentweb.base.BaseWebActivity;
 
 /**
  * Created by Administrator on 2018/3/19.
+ * Activity 使用 AgentWeb
+ * 1.Activity 继承BaseWebActivity
+ * 2.重写getUrl()方法
  */
 
 @SuppressLint("Registered")

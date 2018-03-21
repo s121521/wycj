@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">NmgYtWydc</string>
+    <string name="app_name">外业采集</string>
+    <!--标题-->
+    <string name="main_toolbar_title">外业采集</string>
+    <!--底部菜单-->
+    <string name="bottom_bar_title1">首页</string>
+    <string name="bottom_bar_title2">采集数据</string>
+    <string name="bottom_bar_title3">我</string>
 </resources>

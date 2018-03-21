@@ -17,7 +17,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <!--webview页面主题-->
+    <!--webview页面标题主题-->
     <style name="webview_toolBar">
         <item name="colorControlNormal">#ffffff</item>
         <item name="android:homeAsUpIndicator">@mipmap/cha</item>

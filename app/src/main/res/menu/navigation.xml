@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_index1"
+        android:icon="@mipmap/ic_home"
+        android:title="@string/bottom_bar_title1"/>
+    <item
+        android:id="@+id/navigation_index2"
+        android:icon="@mipmap/ic_data"
+        android:title="@string/bottom_bar_title2"/>
+
+    <item
+        android:id="@+id/navigation_index3"
+        android:icon="@mipmap/ic_me"
+        android:title="@string/bottom_bar_title3"/>
+
+</menu>
